@@ -23,4 +23,4 @@ ArcGIS Version 10.2
   * updatejapanmap.py
 
 * ÉfÅ[É^
-ArcPyJapan.gdb.zip
+  ArcPyJapan.gdb.zip
