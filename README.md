@@ -17,6 +17,7 @@ ArcGIS Version 10.2
 ## 各種ソースとデータの組み合わせ
 -------------------------------------------------------------------------------------------------------------------------------
 *①ESRIの日本地図(全国市区町村界データ)を県ごとに人口と世帯数を集約してディゾルブを行うソース。また、そのプログラム実行後のデータ*
+  http://sanvarie.hatenablog.com/entry/2016/02/26/084133
 
 * #### プログラム  
   20160226
@@ -25,4 +26,19 @@ ArcGIS Version 10.2
   * updatejapanmap.py
 
 * #### データ
-  ArcPyJapan.gdb.zip
+  20160226
+  * ArcPyJapan.gdb.zip
+  
+*②GIS的視点で高校サッカーを分析したソース
+  http://sanvarie.hatenablog.com/entry/2016/02/28/151900
+  
+* #### プログラム  
+  20160228
+  * highSchoolSoccer.py
+  * updatePoint.py
+  * rendering.py
+  * highSchoolRecord.py
+
+* #### データ
+  20160228
+  * Soccer.gdb.zip
