@@ -29,7 +29,7 @@ ArcGIS Version 10.2
   20160226
   * ArcPyJapan.gdb.zip
   
-②GIS的視点で高校サッカーを分析したソース  
+②GIS的視点で高校サッカーを分析したソースとデータ  
   http://sanvarie.hatenablog.com/entry/2016/02/28/151900
   
 * #### プログラム  
@@ -42,3 +42,17 @@ ArcGIS Version 10.2
 * #### データ
   20160228
   * Soccer.gdb.zip
+
+③日本語対応の世界地図  
+  http://sanvarie.hatenablog.com/entry/2016/03/02/120306
+  
+* #### プログラム  
+  20160302
+  * addColumn.py
+  * copyFeatures.py
+  * copyWorldMap.py
+  * setCountryData.py
+
+* #### データ
+  20160302
+  * Map.gdb.zip
